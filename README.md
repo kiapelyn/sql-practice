@@ -10,6 +10,7 @@ O repositório documenta a evolução no aprendizado de Bancos de Dados Relacion
 
 ## Estrutura do Repositório
 
+```text
 sql-practice/
 │
 ├── data_base/             # DDL/DML de carga e esquemas de dados de apoio
@@ -48,6 +49,7 @@ sql-practice/
     ├── P1_Tipo_2.sql
     ├── P2_Tipo_2.sql
     └── rescue.sql
+```
 
 ---
 
